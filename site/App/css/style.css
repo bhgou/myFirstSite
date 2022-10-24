@@ -1,0 +1,124 @@
+body{
+    background-color: rgb(175, 175, 175);
+}
+h1{
+    text-align: center;
+    position: absolute;
+    top: 20px;
+    left: 655px;
+
+}
+header{
+    width: 1440px;
+    height: 150px;
+    position: absolute;
+    left: -1px;
+    background-color: rgb(82, 82, 82);
+}
+footer{
+    width: 1440px;
+    height: 150px;
+
+    position: absolute;
+    bottom: -400px;
+    background-color: rgb(82, 82, 82);
+}
+#container1{
+    width: 350px;
+    height: 250px;
+
+    position: absolute;
+
+    top: 175px;
+    left: 100px;
+    background-color: rgb(82, 82, 82);
+
+}
+#container2{
+    width: 350px;
+    height: 250px;
+
+    position: absolute;
+    top: 175px;
+
+    left: 500px;
+
+    background-color: rgb(82, 82, 82);
+}
+#container3{
+    width: 300px;
+    height: 575px;
+
+    position: absolute;
+    top: 175px;
+
+    left: 900px;
+
+    background-color: rgb(82, 82, 82);
+}
+#container4{
+    width: 750px;
+    height: 250px;
+
+    position: absolute;
+    top: 500px;
+    left: 100px;
+
+    background-color: rgb(82, 82, 82);
+}
+#container5{
+    width: 200px;
+    height: 190px;
+
+    position: absolute;
+    top: 200px;
+    left: 110px;
+
+    background-color:white;
+}
+#container6{
+    width: 200px;
+    height: 250px;
+
+    position: absolute;
+    top: 200px;
+    left: 950px;
+
+    background-color:white;
+}
+#circle{
+    border-radius: 100px;
+    background-color: rgb(173, 169, 169);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+}
+#circle1{
+    border-radius: 100px;
+    background-color: rgb(173, 169, 169);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    left: 1111px;
+}
+#circle2{
+    border-radius: 100px;
+    background-color: rgb(173, 169, 169);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    left: 1000px;
+}
+#circle3{
+    border-radius: 100px;
+    background-color: rgb(173, 169, 169);
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 25px;
+    left: 890px;
+}
